@@ -5,7 +5,7 @@
 
 > **📌 Project explanation video link**
 
-[![Watch Video](https://img.shields.io/badge/▶️-Watch%20Video-red)](https://drive.google.com/file/d/1J7NN3nyTdtvAa8ZBjr1MAgK3M7vHfy5z/view?usp=sharing)
+[![Watch-Video](https://img.shields.io/badge/▶️-Watch%20Video-red)](https://drive.google.com/file/d/1J7NN3nyTdtvAa8ZBjr1MAgK3M7vHfy5z/view?usp=sharing)
 
 ---
 
